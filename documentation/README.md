@@ -110,8 +110,8 @@ Der **Random Forest Regressor** zeigte die beste Leistung und wurde daher für d
 Leider überschreitet das best_model.pkl die Dateigrösse von 100MB, weshab ich es das ganze Projekt nochmals hier abgelegt habe: https://drive.switch.ch/index.php/apps/files/?dir=/AI%20Project&fileid=8630154561 
 
 Github: https://github.com/caccaluc/AI_Project
-Huggingface: https://huggingface.co/spaces/caccaluc/AI_Project
-
+Huggingface App: https://huggingface.co/spaces/caccaluc/AI_Project
+Higgingface files: https://huggingface.co/spaces/caccaluc/AI_Project/tree/main
 
 ---
 
