@@ -96,7 +96,7 @@ Der **Random Forest Regressor** zeigte die beste Leistung und wurde daher für d
 | 4      | RandomForest     | 0.916    | 0.875   | 0.890      | 1.099     | engine_size_l, cylinders, year, fuel_type, vehicle_class       | sehr sinnvoll – Klassen sind deutlich relevant     |
 | 5      | RandomForest     | 0.952    | 0.902   | 0.672      | 0.970     | engine_size_l, cylinders, year, fuel_type, vehicle_class, brand| brand bringt starke Verbesserung, aber Gefahr von Overfit  |
 
-## Fauture Importance
+## Feauture Importance
 
 ![alt text](image-2.png)
 
