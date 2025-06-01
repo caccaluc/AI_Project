@@ -107,8 +107,11 @@ Der **Random Forest Regressor** zeigte die beste Leistung und wurde daher für d
 
 ## Modell & Deployment
 
-Das trainierte Modell (`best_model.pkl`) wurde gespeichert und in einer interaktiven **Gradio-Webapp** integriert.  
-Die Benutzeroberfläche erlaubt es, ein Fahrzeug anhand seiner Eckdaten zu spezifizieren und den zu erwartenden Verbrauch direkt anzeigen zu lassen.
+Leider überschreitet das best_model.pkl die Dateigrösse von 100MB, weshab ich es das ganze Projekt nochmals hier abgelegt habe: https://drive.switch.ch/index.php/apps/files/?dir=/AI%20Project&fileid=8630154561 
+
+Github: https://github.com/caccaluc/AI_Project
+Huggingface: https://huggingface.co/spaces/caccaluc/AI_Project
+
 
 ---
 
